@@ -1,0 +1,3 @@
+<1>post<2>正在发送登录指令<3>http://网关/login.cgi<4>username=账号&password=密码&submit.htm"%"3Flogin.htm=Send<5><6>Referer: http://192.168.0.1/login.htm<7>
+<1>post<2>正在发送重启指令<3>http://网关/form2Reboot.cgi<4>reboot="%"E9"%"87"%"8D"%"E5"%"90"%"AF&submit.htm"%"3Freboot.htm=Send<5><6>Referer: http://192.168.0.1/reboot.htm<7>
+<1>60000<2>等待60秒<3>

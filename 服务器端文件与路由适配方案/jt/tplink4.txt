@@ -1,0 +1,5 @@
+<1>1<2>【注意，使用本方案需将您的路由器管理密码设置为 7jiv8u57m0 (不是wifi密码!)】<3>
+<1>post<2>正在发送登录指令<3>http://网关/<4>{"method":"do","login":{"password":"u18M94KW30efbwK"}}<5><6>Referer: http://192.168.0.1/<7>
+<1>cnm<2>正在取出验证stok<3>stok":"<4>","err<5>
+<1>post<2>正在发送重启指令<3>http://网关/stok=取出/ds<4>{"system":{"reboot":null},"method":"do"}<5><6>Referer: http://192.168.0.1/<7>
+<1>90000<2>等待90秒<3>

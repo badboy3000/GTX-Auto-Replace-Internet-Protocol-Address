@@ -1,0 +1,4 @@
+<1>post<2>正在发送登录指令<3>http://网关/login.cgi<4>action_mode=apply&next_page=index.html&current_page=login.html&username=账号&password=密BASE64"%"3D&login="%"E7"%"99"%"BB"%"E5"%"BD"%"95<5><6>Referer: http://192.168.1.1/login.html<7>
+<1>10000<2>等待10秒<3>
+<1>post<2>正在发送重启指令<3>http://网关/management.cgi<4>action_mode=reboot&next_page=login.html&current_page=sysCfg.html<5><6>Referer: http://网关/sysCfg.html?t=长时间戳<7>
+<1>90000<2>等待90秒<3>

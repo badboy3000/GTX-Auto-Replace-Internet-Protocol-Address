@@ -1,0 +1,3 @@
+<1>post<2>正在发送登录指令<3>http://网关/GponForm/LoginForm<4>XWebPageName=devinfo&username=账号&password=密码<5>
+<1>post<2>正在发送重启指令<3>http://网关/GponForm/device_Form<4>XWebPageName=device&admin_action=reboot&usbenable=0<5>
+<1>180000<2>等待180秒<3>

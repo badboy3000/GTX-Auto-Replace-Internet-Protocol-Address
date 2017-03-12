@@ -1,0 +1,2 @@
+<1>post<2>正在发送重启指令<3>http://网关/cgi-bin-igd/reboot.cgi<4>noneed=noneed<5><6>Authorization: Basic 全BASE64<7>
+<1>90000<2>等待90秒<3>

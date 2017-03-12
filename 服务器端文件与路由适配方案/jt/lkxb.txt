@@ -1,0 +1,3 @@
+<1>post<2>正在发送设置指令<3>http://网关/cgi-bin-igd/netcore_set.cgi<4>mode_name=netcore_set&reboot_set=1&reboot=1<5><6>Authorization: Basic 全BASE64<7>
+<1>post<2>正在发送重启指令<3>http://网关/cgi-bin-igd/netcore_get.cgi<4>mode_name=netcore_get&noneed=noneed<5><6>Authorization: Basic 全BASE64<7>
+<1>90000<2>等待90秒<3>

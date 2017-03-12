@@ -1,0 +1,14 @@
+<1>TP-LINK普联方案1<2>https://ssl.fastgtx.com/bdu4tdk4j56srdbt/jt/tplink1.txt<3>
+<1>TP-LINK普联方案2<2>https://ssl.fastgtx.com/bdu4tdk4j56srdbt/jt/tplink2.txt<3>
+<1>TP-LINK普联方案3<2>https://ssl.fastgtx.com/bdu4tdk4j56srdbt/jt/tplink3.txt<3>
+<1>TP-LINK普联方案4<2>https://ssl.fastgtx.com/bdu4tdk4j56srdbt/jt/tplink4.txt<3>
+<1>net-core磊科方案1<2>https://ssl.fastgtx.com/bdu4tdk4j56srdbt/jt/lkjb.txt<3>
+<1>net-core磊科方案2<2>https://ssl.fastgtx.com/bdu4tdk4j56srdbt/jt/lkqy.txt<3>
+<1>net-core磊科方案3<2>https://ssl.fastgtx.com/bdu4tdk4j56srdbt/jt/lkxb.txt<3>
+<1>Tenda腾达方案1<2>https://ssl.fastgtx.com/bdu4tdk4j56srdbt/jt/tengdanew.txt<3>
+<1>FAST迅捷方案1<2>https://ssl.fastgtx.com/bdu4tdk4j56srdbt/jt/fast.txt<3>
+<1>PHICOMM斐讯方案1<2>https://ssl.fastgtx.com/bdu4tdk4j56srdbt/jt/phicomm.txt<3>
+<1>MERCURY水星方案1<2>https://ssl.fastgtx.com/bdu4tdk4j56srdbt/jt/shuixingnew.txt<3>
+<1>Dlink友讯方案1<2>https://ssl.fastgtx.com/bdu4tdk4j56srdbt/jt/dlink.txt<3>
+<1>NETGEAR网件方案1<2>https://ssl.fastgtx.com/bdu4tdk4j56srdbt/jt/netgear.txt<3>
+<1>电信天翼光猫方案1<2>https://ssl.fastgtx.com/bdu4tdk4j56srdbt/jt/dxgm.txt<3>

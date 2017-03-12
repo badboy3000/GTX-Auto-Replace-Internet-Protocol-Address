@@ -1,0 +1,2 @@
+<1>get<2>正在发送重启指令<3>http://网关/userRpm/SysRebootRpm.htm?Reboot="%"D6"%"D8"%"C6"%"F4"%"C2"%"B7"%"D3"%"C9"%"C6"%"F7<4><5><6>Authorization: Basic 全BASE64<7>
+<1>90000<2>等待90秒<3>

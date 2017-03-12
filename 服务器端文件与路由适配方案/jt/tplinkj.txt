@@ -1,0 +1,5 @@
+<1>get<2>正在发送通用1重启指令<3>http://网关/userRpm/SysRebootRpm.htm?Reboot=%D6%D8%C6%F4%C2%B7%D3%C9%C6%F7<4><6>Authorization: Basic 全BASE64<7>
+<1>get<2>正在发送通用2重启指令<3>http://网关/userRpm/SysRebootRpm.htm?Reboot=%D6%D8%C6%F4%C2%B7%D3%C9%C6%F7<4><5>Authorization=Basic 全BASE64<6>
+<1>get<2>正在发送通用3重启指令<3>http://网关/userRpm/SysRebootRpm.htm?Reboot=%D6%D8%C6%F4%C2%B7%D3%C9%C6%F7<4><5>Authorization=Basic%20全BASE64<6>
+<1>1<2>若重启失败说明您可能使用的最新的TP-Link路由(路由固件最新),这样需要使用TP-Link方案4<3>
+<1>90000<2>等待90秒<3>
