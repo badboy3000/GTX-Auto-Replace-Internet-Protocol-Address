@@ -19,6 +19,11 @@
 <1>cnm<2>输出信息<3>取出的信息前面<4>取出的信息后面<5>  
 <1>数字<2>输出信息<3>  
 
+post=发送HTTP POST请求  
+get=发送HTTP GET请求  
+数字=延迟多少毫秒  
+cnm=从上个HTTPGET/POST请求中取出中间内容保存变量  
+
 gg.txt=公告  
 lb.txt=接口列表地址  
 md5.txt=md5   
