@@ -32,4 +32,3 @@ url.txt=新版下载地址
 ver.txt=最新版本  
 
 ## __更新：在此警告某某某 使用多个开源项目修改后闭源售卖 你已经是违反协议盗用源码__ ##
-我的其他开源项目：[Tegra短信轰炸机](https://github.com/wgzeyu/Tegra-SMS-Bomber/)[Titan短信轰炸机](https://github.com/wgzeyu/Titan-SMS-Bomber/)
